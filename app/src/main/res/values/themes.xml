@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Thème de l'application (référencé dans AndroidManifest.xml) -->
+    <style name="Theme.ConvertisseurDeDevises" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <!-- Style des touches du clavier -->
+    <style name="Touche" parent="Widget.Material3.Button.TextButton">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textColor">@color/turquoise_touche</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:statusBarColor">@color/turquoise_fond</item>
+    </style>
+
+</resources>

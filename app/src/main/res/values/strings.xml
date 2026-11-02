@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="titre">Currency Converter</string>
+    <string name="convertir">CONVERTIR</string>
+    <string name="inverser">Inverser les devises</string>
+    <string name="montant_initial">0</string>
+    <string name="toast_montant_vide">Veuillez saisir un montant</string>
+
+    <!-- Touches du clavier -->
+    <string name="touche_0">0</string>
+    <string name="touche_1">1</string>
+    <string name="touche_2">2</string>
+    <string name="touche_3">3</string>
+    <string name="touche_4">4</string>
+    <string name="touche_5">5</string>
+    <string name="touche_6">6</string>
+    <string name="touche_7">7</string>
+    <string name="touche_8">8</string>
+    <string name="touche_9">9</string>
+    <string name="touche_point">.</string>
+    <string name="touche_effacer">C</string>
+
+    <string-array name="devises">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>TND</item>
+        <item>GBP</item>
+        <item>JPY</item>
+        <item>CAD</item>
+    </string-array>
+</resources>

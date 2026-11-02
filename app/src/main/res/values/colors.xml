@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Zone du haut : bleu foncé comme le bandeau de l'image -->
+    <color name="turquoise_fond">#318ce7</color>
+
+    <!-- Chiffres du clavier : bleu -->
+    <color name="turquoise_touche">#1414C8</color>
+
+    <!-- Touche C : rouge -->
+    <color name="rouge_clair">#E00000</color>
+
+    <!-- Fond du clavier : gris clair -->
+    <color name="fond_clavier">#EDEDED</color>
+
+    <!-- Textes de la zone du haut : blanc sur le bleu foncé -->
+    <color name="blanc">#FFFFFF</color>
+
+    <!-- Bouton Convertir -->
+    <color name="bleu_petrole">#0B7285</color>
+    <color name="texte_bouton">#FFFFFF</color>
+
+    <!-- Résultat : rouge -->
+    <color name="rouge_resultat">#E00000</color>
+</resources>
